@@ -1,5 +1,5 @@
 # Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
-## AADHITHYA SV  (212223060001)
+## SIVARAMAKRISHAN  (212223060264)
 ## Aim
 To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify its functionality in **Cadence nclaunch**.
 
